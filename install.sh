@@ -35,3 +35,4 @@ cp "$BATS_ROOT"/man/bats.1 "$PREFIX"/share/man/man1
 cp "$BATS_ROOT"/man/bats.7 "$PREFIX"/share/man/man7
 
 echo "Installed Bats to $PREFIX/bin/bats"
+echo "please confirm with which bats"
